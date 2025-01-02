@@ -9,7 +9,7 @@
 > Type | Stat |
 > ---|---|
 > Pantheon | `=this.pantheon` |
-> Domain | `=this.domain` |
+> Domain | The Sea |
 > Symbol | `=this.symbol` |
 > ###### Basic Information
 > Type |  Stat |
@@ -18,8 +18,8 @@
 > Group | `=this.associatedGroup` |
 > Gender | Fluid |
 > Age | `=this.age` |
-> Condition | `=this.condition` |
-> Status | `=this.status` |
+> Condition | Absorbed |
+> Status | Unknown |
 ## Appearance
 **Manifestation**:  How the deity manifests (e.g., animal form, humanoid, abstract presence)   
 **Divine Form**:  Description of the deity's appearance or form   
@@ -34,9 +34,7 @@
 **Strengths**:  What the deity excels at   
 **Weaknesses**:  Flaws or limitations of the deity   
 **Behavior Toward Mortals**:  How the deity interacts with mortal beings   
-**Mortal Perception**:  How mortals perceive the deity (e.g., revered, feared, misunderstood)   
-
- 
+**Mortal Perception**:  How mortals perceive the deity (e.g., revered, feared, misunderstood)    
 
 ## Powers & Abilities
 **Primary Powers**:  Main divine powers or abilities (e.g., control over the elements, foresight)   
